@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comunicação entre Fragments</string>
+
+    <string name="texto">Texto:</string>
+    <string name="enviar">Enviar</string>
+
+</resources>
